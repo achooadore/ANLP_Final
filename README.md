@@ -24,7 +24,7 @@ If you use this evaluation methodology or code in your research, please cite:
   title = {The Illusion of Failure: Re-evaluating Zero-shot Machine Translation of LLMs and the Obsolescence of BLEU Score},
   year = {2026},
   publisher = {GitHub},
-  url = {[https://github.com/yourusername/llm-zeroshot-mt-evaluation](https://github.com/yourusername/llm-zeroshot-mt-evaluation)}
+  url = {https://github.com/achooadore/ANLP_Final}
 }
 ```
 ### Acknowledgments
